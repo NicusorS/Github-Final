@@ -86,6 +86,8 @@ int main()
     s.pop();
     if(s.Empty()==1) cout<<"Stiva este goala!";
     else cout<<"Stiva nu este goala!";
-
+    
+    cout<<"Am modificat in cod"<<endl;
+    
     return 0;
 }
