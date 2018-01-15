@@ -5,4 +5,5 @@ int main(){
 	
 	cout<<"Acum nu mai e lame!"
 }
-fghjkl
+
+//Comentariu
